@@ -70,7 +70,7 @@ Como analistas, debemos:
     - *`Limpieza_Tablas`*: Proceso de limpieza del dataset.
   - **Power BI**: Archivos relacionados con reportes y visualizaciones.
     - *`Mockup`*: Representación visual del diseño final.
-    - *`Airlines-dashboard`*: Dashboards de soporte.
+    - *`Airlines-dashboard`*: Dashboards basados en el reporte.
     - *`Reporte`*: Reporte final del análisis.
   - **Raw_data**: Archivos CSV sin limpiar.
 
