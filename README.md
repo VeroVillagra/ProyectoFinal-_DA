@@ -1,4 +1,18 @@
-# Proyecto Airlines: proyección de Mejora Financiera 
+# Proyecto Airlines: Proyección de Mejora Financiera
+
+## Tabla de Contenidos
+1. [Descripción del Proyecto](#descripción-del-proyecto)
+2. [Problema](#problema)
+3. [Objetivo](#objetivo)
+4. [Requerimientos](#requerimientos)
+5. [Plan de Análisis](#plan-de-análisis)
+6. [Resultados Esperados e Impacto](#resultados-esperados-e-impacto)
+7. [Fases Propuestas](#fases-propuestas)
+8. [Herramientas y Tecnologías](#herramientas-y-tecnologías)
+9. [Estructura del Proyecto](#estructura-del-proyecto)
+10. [Conclusiones](#conclusiones)
+11. [Colaboradores](#colaboradores)
+12. [Licencia](#licencia)
 
 ## Descripción del Proyecto
 Este proyecto se centra en la **aviación comercial**, abordando desafíos como fluctuaciones en la demanda de vuelos, variaciones en los precios de los combustibles y la creciente competencia entre aerolíneas. La búsqueda de mantener o aumentar la rentabilidad es crucial para el sector.
@@ -59,8 +73,8 @@ Como analistas, debemos:
     - *`Airlines-dashboard`*: Dashboards de soporte.
     - *`Reporte`*: Reporte final del análisis.
   - **Raw_data**: Archivos CSV sin limpiar.
- 
-## Conclusiones 🚀
+
+## Conclusiones 
 
 A través de técnicas avanzadas de análisis de datos, hemos logrado identificar rutas no rentables que pueden ser desestimadas y rutas emergentes con alto potencial de demanda. 
 
@@ -75,7 +89,6 @@ Gracias al uso de herramientas como **Python**, **Power BI**, y **Google Cloud**
 
 Este proyecto ayuda a mejorar la eficiencia operativa y proporciona un marco escalable para futuros análisis dentro del sector de la aviación.
 
-
 ## Colaboradores
 - **Verónica Villagra**  
   - Analista de datos
@@ -88,5 +101,6 @@ Este proyecto ayuda a mejorar la eficiencia operativa y proporciona un marco esc
 - **Emanuel Achar**  
   - Analista de datos
   - **LinkedIn**: [Emanuel Achar](https://www.linkedin.com/in/emanuel-achar)
+
 ## Licencia
 Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
