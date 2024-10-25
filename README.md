@@ -19,11 +19,11 @@ Este proyecto se centra en la **aviación comercial**, abordando desafíos como 
 
 ## Problema
 El objetivo principal es aumentar la rentabilidad a través del análisis de dos flujos:
-- *Desestimación de rutas no rentables.*
-- *Captación de rutas aún no explotadas.*
+- *Identificar rutas más y menos rentables.*
+- *Optimizar la capacidad y demanda por avión y ruta.*
 
 ## Objetivo
-Identificar rutas potencialmente rentables mediante el análisis de la demanda y establecer rutas no rentables para desestimarlas o generar alternativas unificando rutas cercanas.
+Identificar rutas con alto potencial de rentabilidad a través del análisis de la demanda y determinar aquellas que no son rentables para considerarlas en posibles ajustes. Desarrollar un sistema de análisis de datos que optimice la gestión operativa y mejore la experiencia de los pasajeros en las aerolíneas. Esto incluye la creación de dashboards interactivos para maximizar la eficiencia de los recursos y un análisis profundo de los datos de vuelo para detectar oportunidades de mejora. 
 
 ## Requerimientos
 Como analistas, debemos:
